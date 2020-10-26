@@ -10,6 +10,6 @@ public class JenkinsController {
 
     @GetMapping("/jenkins")
     public String info(){
-        return "jenkins部署成功";
+        return "jenkins部署成功2";
     }
 }
